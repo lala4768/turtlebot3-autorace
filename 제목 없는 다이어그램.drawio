@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.7">
+  <diagram name="페이지-1" id="cpwRgwBoLm6lTcDWgyg4">
+    <mxGraphModel dx="434" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0itoVlZvwhYmdoQ7HzqP-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="시현자1이 신호 전달" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="0itoVlZvwhYmdoQ7HzqP-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="아군 함선 위치&amp;nbsp;&lt;div&gt;도착 후 대기&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="0itoVlZvwhYmdoQ7HzqP-6" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="510" as="sourcePoint" />
+            <mxPoint x="390" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0itoVlZvwhYmdoQ7HzqP-7" connectable="0" parent="0itoVlZvwhYmdoQ7HzqP-6" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="장애물 회피 / 아군 함선 식별" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0itoVlZvwhYmdoQ7HzqP-9" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="650" as="sourcePoint" />
+            <mxPoint x="390" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0itoVlZvwhYmdoQ7HzqP-10" connectable="0" parent="0itoVlZvwhYmdoQ7HzqP-9" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="시현자2가 신호 전달" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0itoVlZvwhYmdoQ7HzqP-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="장애물 회피 및&amp;nbsp;&lt;div&gt;초기 위치로&amp;nbsp;&lt;/div&gt;&lt;div&gt;복귀 후 대기&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="720" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
