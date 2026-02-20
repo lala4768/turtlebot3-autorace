@@ -11,4 +11,5 @@
 
 <br>
 
-# How to use
+# Flow Chart
+`제어기 연결 설정` → `로봇 모델 설정`→`Request` → `Servo On` → `Automode` → 실행
