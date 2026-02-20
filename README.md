@@ -22,8 +22,8 @@
   * 주차 공간이 협소할 경우 사고 위험이 높음
 * **목표**
 
-  * 음성 인식(OpenAI Whisper, openWakeWord)과 객체 인식(YOLOv11)을 결합
-  * 공구를 인식하고 사용자 명령에 맞게 전달·정리하는 로봇 시스템 구현
+  * Lane Detection 및 Autorace 기술의 결합
+  * 시뮬레이션 상에서 TurtleBot3의 자동주차 시스템 구현
 
 <br>
 
