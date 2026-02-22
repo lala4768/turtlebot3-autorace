@@ -30,3 +30,12 @@
 # Flow Chart
 `Default lane mode` → `traffic light`→`parking` → `Stop tunnel`
 <img width="1084" height="464" alt="image" src="https://github.com/user-attachments/assets/4e189172-5c6c-4343-bded-6bf15d308db7" />
+
+<br>
+
+## 사용 기술 및 장비
+
+* **언어 및 환경**: Python 3.10, Ubuntu 22.04, ROS2 Humble
+* **도구**: Colab, VSCode
+* **로봇 하드웨어**: X
+* **로봇 소프트웨어**: Gazebo
