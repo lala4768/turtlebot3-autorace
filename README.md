@@ -71,6 +71,9 @@
 
 4. **표지판 감지시 주차/복귀**
 
+![parking-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/0ec9c6ab-bcdc-4db8-98d9-c6089fbc0fa5)
+
+
    * 주행 중 주차장 표지판 감지시 mux 변환
    * Twist 함수 통해 주차 시작(전진 -> 좌회전 -> 전진)
    * Construction sign 감지시 Twist 통해 주차 동작 실제 실행
