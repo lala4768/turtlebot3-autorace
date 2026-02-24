@@ -59,7 +59,7 @@
 
 3. **신호 감지**
 
-![traffic_light-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4fa3b004-5a8f-47ef-9abf-1551207468d9)
+![traffic_light-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/79269e7d-15c2-4f49-83ff-a70b177c3a50)
 
    * 신호 감지 노드를 실행하고, 색상 인식에 필요한 HSV 파라미터 설정
    * 카메라로부터 실시간 이미지 구독하고 OpenCV로 빨간불/노란불/초록불 감지
