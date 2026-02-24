@@ -45,6 +45,8 @@
 
 1. **차선 감지**
 
+![lane_trace-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/317a4965-f53e-4345-9b07-f067c66c0e61)
+
    * /camera/image_raw 토픽으로 실시간 이미지 입력
    * OpenCV로 BGR 이미지를 HSV로 변환
    * HSV 범위 내 픽셀만 필터링해 차선만 추출
